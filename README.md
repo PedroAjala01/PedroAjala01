@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu Sou Pedro Lucas</h1>
-<h3 align="center">Apaixonado por analise de dados no mundo digital</h3>
+<h3 align="center">Apaixonado por análise de dados no mundo digital</h3>
 
 - Atualmente estou trabalhando com análise e visualização de dados **Data Mundo**
 
